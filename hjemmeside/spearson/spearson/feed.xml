@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:B8D45CB8-5B1F-4016-A9D0-CDDB47D31B12</id>
+ <title>Page list Atom feed</title>
+ <updated>2015-08-28T17:17:44-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:8D1C69B5-3525-46FB-92B7-2C73DCE6F0BB</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">8D1C69B5-3525-46FB-92B7-2C73DCE6F0BB</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2015-08-28T17:17:44.001-04:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4627A87A-7177-4A73-8827-165BEF119006</id>
+  <title>CV</title>
+  <title xmlns="urn:iweb:">CV</title>
+  <in-navbar xmlns="urn:iweb:">4627A87A-7177-4A73-8827-165BEF119006</in-navbar>
+  <link rel="alternate" href="CV.html"/>
+  <updated>2015-08-28T17:17:44.002-04:00</updated>
+  <content>CV</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B3630645-B415-4C49-B520-A745013384C5</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">B3630645-B415-4C49-B520-A745013384C5</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2015-08-28T17:17:44.003-04:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9D23F5EA-EE98-495A-8DAF-AF388B4341C1</id>
+  <title>Research</title>
+  <title xmlns="urn:iweb:">Research</title>
+  <in-navbar xmlns="urn:iweb:">9D23F5EA-EE98-495A-8DAF-AF388B4341C1</in-navbar>
+  <link rel="alternate" href="Research.html"/>
+  <updated>2015-08-28T17:17:44.004-04:00</updated>
+  <content>Research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DCC14891-57B5-4F40-8EC4-DD96CEDDDB63</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">DCC14891-57B5-4F40-8EC4-DD96CEDDDB63</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2015-08-28T17:17:44.005-04:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>
