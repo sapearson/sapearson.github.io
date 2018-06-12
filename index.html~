@@ -11,10 +11,10 @@ charset=utf-8"/>
 <meta name="description" content=""/>
 <meta name="keywords" content=""/>
 <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-<script src="static/js/jquery.min.js"></script>
-<script src="static/js/jquery.poptrox.min.js"></script>
-<script src="static/js/skel.min.js"></script>
-<script src="static/js/init.js"></script>
+<script src="./js/jquery.min.js"></script>
+<script src="./js/jquery.poptrox.min.js"></script>
+<script src="./js/skel.min.js"></script>
+<script src="./js/init.js"></script>
 
 <noscript>
   <link rel="stylesheet" href="./css/skel-noscript.css"/>
@@ -28,7 +28,7 @@ charset=utf-8"/>
     <header id="header">
 
       <!-- Logo -->
-      <h1 id="logo"><a href="index.html#">Sarah Pearson</a></h1>
+      <h1 id="logo"><a href="index.html#">Sarah Pearson | @spacewsarah</a></h1>
       
       <!-- Nav -->
       <nav id="nav">
@@ -47,7 +47,7 @@ charset=utf-8"/>
     <section id="intro" class="main style1 dark fullscreen">
       <div class="content container small">
 	<header>
-	    <h2>Sarah Pearson | @spacewsarah</h2>
+	    <h2>Sarah Pearson</h2>
 	    
 	      <h1>Graduate Student, Columbia University</h1><br>
 	            <span class="image avatar48"><img src="./images/Sarah.png" alt=""/></span>
