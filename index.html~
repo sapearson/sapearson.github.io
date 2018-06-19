@@ -60,7 +60,7 @@ charset=utf-8" />
 	    <h2>Sarah Pearson</h2>
 	    
 	      <h1>Columbia University</h1><br>
-	            <span class="image avatar48"><img src="images/Sarah.jpg" alt="" /></span>
+	            <span class="image avatar48"><img src="./images/Sarah.png" alt="" /></span>
 		    </header>
 	  <p><strong>Welcome to my homepage! I recently finished my PhD from the</br> <a href="http://astro.c\
 olumbia.edu/" target="_blank">Department of Astronomy at Columbia University</a>, and from August 2018 I will\
@@ -96,7 +96,7 @@ olumbia.edu/" target="_blank">Department of Astronomy at Columbia University</a>
 <p>
 I recieved my Master's degree and PhD degree from Columbia University in 2015 and 2018.
   <footer>
-    <a href="images/cv.pdf" class="button scrolly" target="_blank">Full CV</a>
+    <a href="./images/cv.pdf" class="button scrolly" target="_blank">Full CV</a>
     </footer></p>
 </div>
       <a href="#work" class="button style2 down anchored">Next</a>
@@ -140,7 +140,7 @@ I recieved my Master's degree and PhD degree from Columbia University in 2015 an
 
                                          <div data-content="Pearson et al. 2017, Nature Astronomy" class="image fit">
                                             <img
-                                            src="images/fulls/pal5bar1.png"
+                                            src="./images/fulls/pal5bar1.png"
                                             alt="Models" />
                                          </div></a>
                                                                                 <header>
